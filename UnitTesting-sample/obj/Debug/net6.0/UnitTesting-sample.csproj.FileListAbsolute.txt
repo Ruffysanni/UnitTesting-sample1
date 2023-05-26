@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\Side-Projects\Unit-Testing\UnitTesting-sample1\UnitTesting-sample\bin\Debug\net6.0\UnitTesting-sample.exe
+C:\Users\user\Desktop\Side-Projects\Unit-Testing\UnitTesting-sample1\UnitTesting-sample\bin\Debug\net6.0\UnitTesting-sample.deps.json
+C:\Users\user\Desktop\Side-Projects\Unit-Testing\UnitTesting-sample1\UnitTesting-sample\bin\Debug\net6.0\UnitTesting-sample.runtimeconfig.json
+C:\Users\user\Desktop\Side-Projects\Unit-Testing\UnitTesting-sample1\UnitTesting-sample\bin\Debug\net6.0\UnitTesting-sample.dll
+C:\Users\user\Desktop\Side-Projects\Unit-Testing\UnitTesting-sample1\UnitTesting-sample\bin\Debug\net6.0\UnitTesting-sample.pdb
+C:\Users\user\Desktop\Side-Projects\Unit-Testing\UnitTesting-sample1\UnitTesting-sample\bin\Debug\net6.0\xunit.assert.dll
+C:\Users\user\Desktop\Side-Projects\Unit-Testing\UnitTesting-sample1\UnitTesting-sample\obj\Debug\net6.0\UnitTesting-sample.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Side-Projects\Unit-Testing\UnitTesting-sample1\UnitTesting-sample\obj\Debug\net6.0\UnitTesting-sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Side-Projects\Unit-Testing\UnitTesting-sample1\UnitTesting-sample\obj\Debug\net6.0\UnitTesting-sample.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Side-Projects\Unit-Testing\UnitTesting-sample1\UnitTesting-sample\obj\Debug\net6.0\UnitTesting-sample.AssemblyInfo.cs
+C:\Users\user\Desktop\Side-Projects\Unit-Testing\UnitTesting-sample1\UnitTesting-sample\obj\Debug\net6.0\UnitTesting-sample.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Side-Projects\Unit-Testing\UnitTesting-sample1\UnitTesting-sample\obj\Debug\net6.0\UnitTesting-sample.csproj.CopyComplete
+C:\Users\user\Desktop\Side-Projects\Unit-Testing\UnitTesting-sample1\UnitTesting-sample\obj\Debug\net6.0\UnitTesting-sample.dll
+C:\Users\user\Desktop\Side-Projects\Unit-Testing\UnitTesting-sample1\UnitTesting-sample\obj\Debug\net6.0\refint\UnitTesting-sample.dll
+C:\Users\user\Desktop\Side-Projects\Unit-Testing\UnitTesting-sample1\UnitTesting-sample\obj\Debug\net6.0\UnitTesting-sample.pdb
+C:\Users\user\Desktop\Side-Projects\Unit-Testing\UnitTesting-sample1\UnitTesting-sample\obj\Debug\net6.0\UnitTesting-sample.genruntimeconfig.cache
+C:\Users\user\Desktop\Side-Projects\Unit-Testing\UnitTesting-sample1\UnitTesting-sample\obj\Debug\net6.0\ref\UnitTesting-sample.dll
